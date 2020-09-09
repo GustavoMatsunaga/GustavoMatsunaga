@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Gustavo Matsunaga</h1>
 <h3 align="center">I'm an organized and focused person, passionate about maximizing and enhancing user experience.</h3>
 
@@ -11,6 +10,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavomatsunaga&show_icons=true" alt="gustavomatsunaga" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-matsunaga-0628461a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gustavo-matsunaga-0628461a3/" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/gustavo.m.matsunaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/gustavo.m.matsunaga" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/gustavo-matsunaga-0628461a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gustavo-matsunaga-0628461a3/" height="30" width="30" /></a>
+<a href="https://fb.com/gustavo.m.matsunaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gustavo.m.matsunaga" height="30" width="30" /></a>
 </p>
