@@ -1,5 +1,7 @@
 # Hello! :space_invader:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomatsunaga" alt="gustavomatsunaga" /> </p>
+
 Hi! :smiley:  My name is Gustavo Matsunaga. I'm an organized and focused person, passionate about maximizing and enhancing user experience.
 
 ## About me 
