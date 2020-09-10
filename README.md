@@ -12,7 +12,7 @@ I'm front-end developer with a civil engineer background, self-taught, always se
 
 
 ## CONTACT 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/gustavo-matsunaga-0628461a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gustavo-matsunaga-0628461a3/" height="30" width="30" /></a>
 <a href="https://fb.com/gustavo.m.matsunaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gustavo.m.matsunaga" height="30" width="30" /></a>
 </p>
