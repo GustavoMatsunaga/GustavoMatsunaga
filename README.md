@@ -18,7 +18,6 @@ I'm front-end developer with a civil engineer background, self-taught, always se
 </p>
 
 <div display="block">
-<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomatsunaga&layout=compact&hide=html" alt="gustavomatsunaga" /></p>
 
 <p>&nbsp;<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=gustavomatsunaga&show_icons=true" alt="gustavomatsunaga" /></p>
 </div>
